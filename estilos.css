@@ -1,0 +1,71 @@
+body {background-image: url(foto.jfif);}
+h1 {background-position: center;
+background-color: rgb(226, 19, 19);
+color: azure;
+font-family: cursive;
+font-size: 40px;
+text-align: center;
+width: 90%;}
+h2 { background-color: rgb(226, 109, 12);
+    color: rgb(29, 24, 17);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;}
+    p { background-color: rgb(250, 246, 25);
+        color: black;
+        font-family: monospace;
+        font-size: 15px;
+    width: 96%;
+text-align: center;}
+        h4{color: black;
+        width: 90%; }
+.imagen img{border-radius: 200px;
+margin-top: 100px;
+width: 180px;
+height: 200px;
+border: lightcoral;
+display: block;
+margin:0 auto}
+h3 {color: rgb(50, 8, 92);
+background-color: rgb(82, 235, 95);
+width: 96%;
+text-align: center;}
+
+table{color: rgb(5, 35, 39);
+background-color: coral;
+border: rgb(142, 88, 196) solid ;
+width: 96%;
+text-align: center;}
+th{ border: rgb(182, 97, 82);
+    background-color: white;}
+    td{border: rgb(50, 163, 167) solid;
+    background-color: teal;}
+    .tec {background:violet}
+.ul{ margin: auto;
+width: 67%;
+padding: 35px;
+background-color: rgb(33, 23, 167);
+color: white;
+margin-bottom: 25px;
+}    
+.ol {margin: auto;
+    width: 67%;
+    padding: 35px;
+    background-color: rgb(108, 7, 155);
+    color: white;   }
+form { width: 90%;
+border: 3px solid rgb(33, 23, 167);
+margin: 20px;
+padding: 20px;
+background-color: skyblue;}
+label { font-size: 12px;
+display: block;
+color: rgb(7, 67, 247);
+width: 30%;}
+input {margin-bottom:10px;
+width: 70%;}
+textarea { display: block;
+margin-bottom: 10%;
+width: 80%;}
+button{ width: 100px;}
+input:focus {border: 2px solid rosybrown;}
